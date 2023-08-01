@@ -45,7 +45,7 @@
                 <h3>Recent Projects</h3>
                 {% for project in site.project offset: 0 limit:3 %}
                 <li>
-                    <a href="{{project.url | absolute_url}}">{{project.title}}</a>
+                    <a href="{{project.url | absolute_url}}">{{project.project}}</a>
                 </li>
                 {% endfor %}
             </div>
