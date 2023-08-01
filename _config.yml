@@ -2,12 +2,12 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://albertferre.github.io/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
 # Title of the Site
-title: Albert
+title: Albert Ferré
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
@@ -23,16 +23,16 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: albertferrevidal@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  https://github.com/albertferre
-youtube_channel_id: /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username: albert-ferre-51189230
+github_username:  albertferre
+youtube_channel_id:
+reddit_username:
+behance_username:
+dribbble_username:
+spotify_username:
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -41,7 +41,7 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Albert Ferré
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
