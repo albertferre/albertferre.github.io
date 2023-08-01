@@ -4,12 +4,12 @@ markdown: kramdown
 # URL of the Site
 url: 'https://albertferre.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: https://albertferre.github.io
 
 # Title of the Site
 title: Albert Ferré
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Data Scientist
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
