@@ -1,8 +1,8 @@
 - name: Facings product identifier
   image: https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80
   link: https://medium.com/p/d3ca34463022
-  description: The facings identifier using YOLOv8 and image embeddings presented in this project is an example of utilizing computer vision techniques. By combining YOLOv8, an advanced object detection algorithm, with image embeddings that capture essential visual features, the system can automatically detect and count product facings with precision
+  description: Using YOLOv8 and image embeddings to identify facings in a shelf
 - name: Travelling Salesman Routing
   link: https://github.com/albertferre/travelling-salesman-routing
   image: https://images.unsplash.com/photo-1594935975218-a3596da034a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-  description: This repository demonstrates how to solve the Vehicle Routing Problem (VRP) using OpenStreetMap data and OR-Tools library. The VRP is a classic optimization problem where a set of vehicles is tasked with visiting a set of locations while minimizing the total distance traveled.
+  description: Solving the Vehicle Routing Problem (VRP) with python
