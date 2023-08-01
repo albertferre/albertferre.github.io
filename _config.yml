@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://albertferre.github.io/'
+url: 'https://albertferre.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
@@ -33,6 +33,7 @@ reddit_username:
 behance_username:
 dribbble_username:
 spotify_username:
+medium_username: albertferrevidal
 
 # Google Analytics
 google-analytics:
