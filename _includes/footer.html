@@ -43,9 +43,9 @@
             <!--Blog-post Section-->
             <div class="column has-text-white">
                 <h3>Recent Projects</h3>
-                {% for project in site.project.project-card offset: 0 limit:3 %}
+                {% for project in site.data.projects offset: 0 limit:3 %}
                 <li>
-                    <a href="{{project.url | absolute_url}}">{{project.name}}</a>
+                    <a href="{{project.link}}">{{project.name}}</a>
                 </li>
                 {% endfor %}
             </div>
