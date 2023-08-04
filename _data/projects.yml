@@ -3,6 +3,10 @@
   link: https://medium.com/p/d3ca34463022
   description: Using YOLOv8 and image embeddings to identify facings in a shelf
 - name: Travelling Salesman Routing
-  link: https://github.com/albertferre/travelling-salesman-routing
+  link: https://medium.com/@albertferrevidal/solving-the-vehicle-routing-problem-with-openstreetmap-and-or-tools-9c32a5dbc4f1
   image: https://images.unsplash.com/photo-1594935975218-a3596da034a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
   description: Solving the Vehicle Routing Problem (VRP) with python
+- name: Baby Growth Chart
+  link: https://baby-growth-chart.streamlit.app/
+  image: https://images.unsplash.com/photo-1510154221590-ff63e90a136f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
+  description: Baby growth data visualization
