@@ -10,3 +10,7 @@
   link: https://baby-growth-chart.streamlit.app/
   image: https://images.unsplash.com/photo-1510154221590-ff63e90a136f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
   description: Baby growth data visualization with Streamlit
+- name: LLM image search
+  link: https://clip-image-search.streamlit.app/
+  image: https://images.unsplash.com/photo-1635282540409-3171279a0e47?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  description: Natural language image search
